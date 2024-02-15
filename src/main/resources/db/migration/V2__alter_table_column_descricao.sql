@@ -1,0 +1,1 @@
+ALTER TABLE conta CHANGE COLUMN desricao descricao varchar(100) not null;
